@@ -18,3 +18,6 @@ var types;
 var test = types.Image;
 console.info(typeof test, typeof types[test]);
 console.info(test, types[test]);
+// tuples
+var tomsk = ["Tomsk", -30];
+console.log(tomsk);
